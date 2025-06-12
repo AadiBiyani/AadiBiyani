@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my GitHub!
-I'm a Computer Engineering student passionate about building impactful and innovative tech projects. Here, you'll find a collection of things I've built—from software tools to AI experiments. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aadi-biyani/) or reach out via [email] (mailto:aadibiyani5@gmail.com). Always open to new ideas and collaborations! 😄
+I'm a Computer Engineering student passionate about building impactful and innovative tech projects. Here, you'll find a collection of things I've built—from software tools to AI experiments. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aadi-biyani/) or reach out via [email](mailto:aadibiyani5@gmail.com). Always open to new ideas and collaborations! 😄
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadiBiyani&theme=great_gatsby)
